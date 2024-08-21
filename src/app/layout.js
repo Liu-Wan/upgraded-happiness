@@ -8,8 +8,8 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "图床",
-  description: "图床",
+  title: "FiveM之家公共图床",
+  description: "本站为FiveM中文社区-FiveM之家用户提供免费公共图床。",
 };
 
 
