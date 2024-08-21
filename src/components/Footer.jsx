@@ -10,7 +10,7 @@ export default function Footer() {
           className="text-blue-300  hover:text-red-900 ml-1"
           target="_blank"
           rel="noopener noreferrer"
-          >快迪云互联</Link> </p>
+          >快迪云互联</Link>提供 </p>
       </div>
     </footer>
   );
